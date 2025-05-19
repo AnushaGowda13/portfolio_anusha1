@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio_anusha1/static/css/main.a172ea7d.css",
+    "main.js": "/portfolio_anusha1/static/js/main.f5136291.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio_anusha1/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio_anusha1/static/js/787.1ed0c42c.chunk.js",
+    "static/media/emotion.png": "/portfolio_anusha1/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/codeEditor.png": "/portfolio_anusha1/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/portfolio_anusha1/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio_anusha1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/trip.jpg": "/portfolio_anusha1/static/media/trip.00a4c1214c4d306c6f77.jpg",
+    "static/media/Anusha_Resume1 (2).pdf": "/portfolio_anusha1/static/media/Anusha_Resume1 (2).96c0d3876cd15573e90a.pdf",
+    "static/media/email.jpg": "/portfolio_anusha1/static/media/email.c7252b512288296a32f7.jpg",
+    "static/media/art.jpg": "/portfolio_anusha1/static/media/art.2eea9fa24cef7a63d9e4.jpg",
+    "static/media/anusha.jpg": "/portfolio_anusha1/static/media/anusha.7cae634e41023d89acf7.jpg",
+    "static/media/dj.jpg": "/portfolio_anusha1/static/media/dj.446f92948b48c9786eff.jpg",
+    "static/media/home-bg.jpg": "/portfolio_anusha1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio_anusha1/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio_anusha1/index.html",
+    "main.a172ea7d.css.map": "/portfolio_anusha1/static/css/main.a172ea7d.css.map",
+    "main.f5136291.js.map": "/portfolio_anusha1/static/js/main.f5136291.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio_anusha1/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio_anusha1/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a172ea7d.css",
+    "static/js/main.f5136291.js"
+  ]
+}
